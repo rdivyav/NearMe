@@ -148,7 +148,7 @@ college.html
 ```
 
 ## OUTPUT
-![alt text](bakkiya/mapapp/static/map.png)
+![alt text](bakkiya/mapapp/static/1.png)
 ![alt text](bakkiya/mapapp/static/3.png)
 ![alt text](bakkiya/mapapp/static/5.png)
 ![alt text](bakkiya/mapapp/static/2.png)
